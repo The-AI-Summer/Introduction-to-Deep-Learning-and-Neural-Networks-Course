@@ -3,7 +3,7 @@
 
 
 
-[Visit the course now](https://www.educative.io/courses/intro-deep-learning/N8v1KAg8vOz)
+[Visit the course now](https://www.educative.io/courses/intro-deep-learning/)
 
 
 
